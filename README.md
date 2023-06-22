@@ -12,6 +12,8 @@ Bem-vindo(a) ao Color Friend's!
 - Explore os feeds dos seus amigos.
 - E muito mais!
 
+<img src="cadastro.jpeg" alt="Descrição da Imagem" width="400" height="225" /> <img src="publicacoes.jpeg" alt="Descrição da Imagem" width="400" height="225" />
+
 ## Comece agora mesmo e faça parte da comunidade Color Friend's!
 
 
