@@ -1,18 +1,17 @@
-# Pit - A Rede Social Nova
+# Color Friend's - Você sempre conectado
 
-Bem-vindo(a) ao Pit, a rede social nova inspirada no Twitter!
+Bem-vindo(a) ao Color Friend's!
+
+<img src="logo1.png" alt="Descrição da Imagem" width="300" height="200" />
 
 ## Funcionalidades:
 
-- Compartilhe seus pensamentos e opiniões em até 280 caracteres.
+- Compartilhe seus pensamentos e opiniões.
 - Siga outros usuários e seja seguido por eles.
-- Curta, retweete e responda aos posts de outros usuários.
-- Explore hashtags populares e descubra conteúdo interessante.
-- Envie mensagens diretas para seus amigos e seguidores.
-- Personalize seu perfil e foto de perfil.
-- Receba notificações em tempo real sobre atividades relevantes.
+- Republique os posts de outros usuários.
+- Explore os feeds dos seus amigos.
 - E muito mais!
 
-Comece agora mesmo e faça parte da comunidade do Pit!
+## Comece agora mesmo e faça parte da comunidade Color Friend's!
 
-![Pit Logo](logo-pit.png)
+
